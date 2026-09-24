@@ -1,6 +1,6 @@
 from math import sqrt
 
-# Distance Calculator Between 2 Points
+# Distance Calculator Between 2 Points in a Cartesian Plane
 
 x1 =int(input("Enter x1: "))
 y1 =int(input("Enter y1: "))
